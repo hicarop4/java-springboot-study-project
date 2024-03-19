@@ -1,7 +1,8 @@
-#### Este é apenas meu projeto feito com Java + Spring Boot para estudos 📖
+### Sistema de gerenciamento de uma Livraria
+#### Este é apenas meu projeto para o curso de Java + Spring Boot 📖
 #### Até o momento, este projeto possui conceitos como:
 - CRUD
-- Requisições e Respostas em JSON e XML
+- Content Negotiation(Requisições e Respostas em JSON e XML)
 - Exceptions Handler
 - CORS
 - Documentação com Swagger
