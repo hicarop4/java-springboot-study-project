@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rest_api
     username: root
-    password: hicarovitor
+    password: 1234
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
@@ -20,3 +20,8 @@ springdoc:
   pathsToMatch: /api/**/v1/**
   swagger-ui:
     use-root-path: true
+
+api:
+  security:
+    token:
+      secret: tH4tSM1B3stS3cr3t
